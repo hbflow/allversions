@@ -26,8 +26,13 @@ Version 9: https://hbflow.github.io/flow9/
 # Release Dates
 
 Version 4: August 29, 2021
+
 Version 5: Septermber 3, 2021
+
 Version 6: September 12, 2021
+
 Version 7 Preview: October 5, 2021
+
 Version 8: December 8, 2021
+
 Version 9: November 2, 2022
