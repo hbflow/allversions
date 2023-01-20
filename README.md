@@ -23,6 +23,9 @@ Version 8: : https://hbflow.github.io/flow8/
 
 Version 9: https://hbflow.github.io/flow9/
 
+Version 10 BETA 1: https://hbflow.github.io/10beta1/
+Version 10 BETA 2: https://hbflow.github.io/10beta2/
+
 # Release Dates
 
 Version 4: August 29, 2021
